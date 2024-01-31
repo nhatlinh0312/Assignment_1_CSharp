@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Et4x8vXCeVigW7Af93grGqwT9keNqc1DdMvksDkVdTf9lQh4dU2WLV+8DDuwU+odcg0xdphKbqmBhzBlp/iyFg==",
+  "success": true,
+  "projectFilePath": "E:\\progaming\\CSharp002\\CSharp002\\CSharp002.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: The download of 'https://api.nuget.org/v3-vulnerabilities/2024.01.16.23.29.09/vulnerability.base.json' timed out because no data was received for 60000ms."
+    }
+  ]
+}

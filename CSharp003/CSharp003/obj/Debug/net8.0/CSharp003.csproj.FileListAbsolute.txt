@@ -1,0 +1,14 @@
+E:\progaming\CSharp003\CSharp003\bin\Debug\net8.0\CSharp003.exe
+E:\progaming\CSharp003\CSharp003\bin\Debug\net8.0\CSharp003.deps.json
+E:\progaming\CSharp003\CSharp003\bin\Debug\net8.0\CSharp003.runtimeconfig.json
+E:\progaming\CSharp003\CSharp003\bin\Debug\net8.0\CSharp003.dll
+E:\progaming\CSharp003\CSharp003\bin\Debug\net8.0\CSharp003.pdb
+E:\progaming\CSharp003\CSharp003\obj\Debug\net8.0\CSharp003.GeneratedMSBuildEditorConfig.editorconfig
+E:\progaming\CSharp003\CSharp003\obj\Debug\net8.0\CSharp003.AssemblyInfoInputs.cache
+E:\progaming\CSharp003\CSharp003\obj\Debug\net8.0\CSharp003.AssemblyInfo.cs
+E:\progaming\CSharp003\CSharp003\obj\Debug\net8.0\CSharp003.csproj.CoreCompileInputs.cache
+E:\progaming\CSharp003\CSharp003\obj\Debug\net8.0\CSharp003.dll
+E:\progaming\CSharp003\CSharp003\obj\Debug\net8.0\refint\CSharp003.dll
+E:\progaming\CSharp003\CSharp003\obj\Debug\net8.0\CSharp003.pdb
+E:\progaming\CSharp003\CSharp003\obj\Debug\net8.0\CSharp003.genruntimeconfig.cache
+E:\progaming\CSharp003\CSharp003\obj\Debug\net8.0\ref\CSharp003.dll

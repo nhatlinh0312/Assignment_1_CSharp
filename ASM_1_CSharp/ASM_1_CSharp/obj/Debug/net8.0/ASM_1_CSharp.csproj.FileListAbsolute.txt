@@ -1,0 +1,14 @@
+E:\progaming\ASM_1_CSharp\ASM_1_CSharp\bin\Debug\net8.0\ASM_1_CSharp.exe
+E:\progaming\ASM_1_CSharp\ASM_1_CSharp\bin\Debug\net8.0\ASM_1_CSharp.deps.json
+E:\progaming\ASM_1_CSharp\ASM_1_CSharp\bin\Debug\net8.0\ASM_1_CSharp.runtimeconfig.json
+E:\progaming\ASM_1_CSharp\ASM_1_CSharp\bin\Debug\net8.0\ASM_1_CSharp.dll
+E:\progaming\ASM_1_CSharp\ASM_1_CSharp\bin\Debug\net8.0\ASM_1_CSharp.pdb
+E:\progaming\ASM_1_CSharp\ASM_1_CSharp\obj\Debug\net8.0\ASM_1_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\progaming\ASM_1_CSharp\ASM_1_CSharp\obj\Debug\net8.0\ASM_1_CSharp.AssemblyInfoInputs.cache
+E:\progaming\ASM_1_CSharp\ASM_1_CSharp\obj\Debug\net8.0\ASM_1_CSharp.AssemblyInfo.cs
+E:\progaming\ASM_1_CSharp\ASM_1_CSharp\obj\Debug\net8.0\ASM_1_CSharp.csproj.CoreCompileInputs.cache
+E:\progaming\ASM_1_CSharp\ASM_1_CSharp\obj\Debug\net8.0\ASM_1_CSharp.dll
+E:\progaming\ASM_1_CSharp\ASM_1_CSharp\obj\Debug\net8.0\refint\ASM_1_CSharp.dll
+E:\progaming\ASM_1_CSharp\ASM_1_CSharp\obj\Debug\net8.0\ASM_1_CSharp.pdb
+E:\progaming\ASM_1_CSharp\ASM_1_CSharp\obj\Debug\net8.0\ASM_1_CSharp.genruntimeconfig.cache
+E:\progaming\ASM_1_CSharp\ASM_1_CSharp\obj\Debug\net8.0\ref\ASM_1_CSharp.dll
